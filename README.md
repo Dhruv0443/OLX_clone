@@ -1,1 +1,1 @@
-# Socail media website
+# Social media website
